@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ingresar</title>
+</head>
+
+{% extends 'base/principal.html' %}
+{% block content %}
+
+<div class="barra-superior">
+    <h1>Ingresar</h1>
+</div>
+
+<div class="cuerpo-tarjeta">
+<form method="post">
+    {% csrf_token %}
+    {{form.as_p}}
+    <input class="boton" type="submit" value="Ingresar">
+</form>
+<p>¿No estas regìstrado? <a href="{% url 'registro' %}">Regìstrarse</a></p>
+</div>
+
+
+
+<body>
+
+
+</form>
+
+
+
+</body>
+
+{% endblock content %}
+</html>

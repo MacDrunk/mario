@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Regìstro</title>
+</head>
+
+{% extends 'base/principal.html' %}
+{% block content %}
+
+<div class="barra-superior">
+    <h1>Regìstro</h1>
+</div>
+
+<div class="cuerpo-tarjeta">
+ <form method="post">
+    {% csrf_token %}
+     <label>{{from.username.label}}</label>
+         {{from.username}}
+
+     <label>{{from.password1.label}}</label>
+         {{from.password1}}
+
+     <label>{{from.password2.label}}</label>
+         {{from.password2}}
+    {{form.as_p}}
+    <input class="boton" type="submit" value="Regìstrar" style="margin-top: 0px;">
+  </form>
+    <p>¿Ya estas registrado? <a href="{% url 'login' %}">Ingresar</a></p>
+<body>
+
+</body>
+
+{% endblock content %}
+
+</html>

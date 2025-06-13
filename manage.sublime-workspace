@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"edad",
+				"edadHijo3"
+			],
+			[
+				"m",
+				"mediaEdad"
+			],
+			[
+				"ed",
+				"edadHijo"
+			],
+			[
+				"e",
+				"edadMadre"
+			],
+			[
+				"al",
+				"alturaMario"
+			],
+			[
+				"re",
+				"recorridoGas"
+			],
+			[
+				"r",
+				"round"
+			],
+			[
+				"rec",
+				"recorridoAlcohol"
+			],
+			[
+				"sc",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"package control",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/juego_secretov3.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/estrellas.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/inicio_de_sesion_tres_intentos.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/inicio_de_sesion.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/Media_edades_familia.html",
+		"/?DS920home/Documentos mario de pc y lap/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/juego_de_adivinacion.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/numeros_pares_del_1_al_100.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/juego_adivinanza_extendido.html",
+		"/?DS920home/Documentos mario de pc y lap/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/imc2.html",
+		"/?DS920home/Documentos mario de pc y lap/LAPTOP-E21GNIQL/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/año de nacimiento_test.html",
+		"/?DS920home/Documentos mario de pc y lap/LAPTOP-E21GNIQL/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/año de nacimiento2_test.html",
+		"/?DS920home/Documentos mario de pc y lap/LAPTOP-E21GNIQL/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/año de nacimiento4_test.html",
+		"/?DS920home/Documentos mario de pc y lap/LAPTOP-E21GNIQL/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/año de nacimiento3_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/año de nacimiento_test.html",
+		"/?DS920home/Documentos mario de pc y lap/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/año de nacimiento_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/calculo_consumo.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/donde_esta_elerror.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/tabla_multiplicarsin_variable.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/tabla_multiplicar_con_variable.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/tabla_multiplicar_sin_variable.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/consumo_seguninstructor.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/quinto_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/quinto1_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/sexto_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/prueba_1.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/caurto1_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/caurto`1_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/caurto_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/segundo_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/primer_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/tercer_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/progama.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/ejempo_cocatenaciomes4.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/ejempo_cocatenaciomes3.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/ejempo_cocatenaciomes2.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/ejempo_cocatenaciomes1.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/prueba_3.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/prueba_2.html",
+		"/?DS920home/Documentos mario de pc y lap/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/progama.html",
+		"/?DS920home/Documentos mario de pc y lap/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/ejempo_cocatenaciomes4.html",
+		"/?DS920home/Documentos mario de pc y lap/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/caurto_test.html",
+		"/?DS920home/Documentos mario de pc y lap/CURSO DE ALURE Y ORACLE/programas para el curso/logica_progamacion_parte1-aula3/logica_progamacion_parte1-aula3/1644-Logica de Programacion_Primeros Pasos-aula2/programa.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/sexto_test-html",
+		"/?DS920home/Documentos mario de pc y lap/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/segundo_test.html",
+		"/?DS920home/Documentos mario de pc y lap/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/tercer_test.html",
+		"/?DS920home/Documentos mario de pc y lap/CURSO DE ALURE Y ORACLE/logica de programacion - primeros passos/logica de programacion - programa html/primer_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - programa html/tercer_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - programa html/primer_test.html",
+		"/D/CURSO DE ALURE Y ORACLE/logica de programacion - programa html/segundo_test.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

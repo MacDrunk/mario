@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+{% extends 'base/principal.html' %}
+{% block content %}
+
+<div class="barra-superior">
+    <a href="{% url 'tarea' %}">&#x1F860; Regresar</a>
+</div>
+
+<div class="cuerpo-tarea">
+    <form method="post" action="">
+    {% csrf_token %}
+    {{form.as_p}}
+    <input class "boton" type="submit" value="Enviar">
+    </form>
+
+</div>
+
+<body>
+
+
+
+
+</body>
+
+{% endblock content %}
+
+</html>
