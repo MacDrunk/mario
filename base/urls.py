@@ -1,7 +1,6 @@
 from django.urls import path
 from django.contrib.auth import views as auth_views, logout
 from  django.contrib.auth.views import LogoutView
-from tkinter.font import names
 from django.urls import path
 from .views import ( ListaPendientes, DetalleTarea, CrearTarea, EditarTarea,Eliminartarea,Logueo,PaginaRegistro
                      )

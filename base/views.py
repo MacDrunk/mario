@@ -33,11 +33,15 @@ class ListaPendientes(LoginRequiredMixin,ListView):
 class DetalleTarea(LoginRequiredMixin,DetailView):
     model = Tarea
     context_object_name = 'tarea'
-    template_name = 'base/tarea.html'
+    template_name = 'base/Tarea.html' # Corrected Tarea.html
+
+    def get_queryset(self):
+        base_qs = super().get_queryset()
+        return base_qs.filter(usuario=self.request.user)
 
 class CrearTarea(LoginRequiredMixin,CreateView):
     model = Tarea
-    fields = ['titulo','descripcion','completo']
+    fields = ['titulo','descripccion','completo']
     success_url = reverse_lazy('tarea')
 
     def form_valid(self, form):
@@ -49,10 +53,18 @@ class EditarTarea(LoginRequiredMixin,UpdateView):
     fields = ['titulo','descripccion','completo']
     success_url = reverse_lazy('tarea')
 
+    def get_queryset(self):
+        base_qs = super().get_queryset()
+        return base_qs.filter(usuario=self.request.user)
+
 class Eliminartarea(LoginRequiredMixin,DeleteView):
     model = Tarea
     context_object_name = 'tarea'
     success_url = reverse_lazy('tarea')
+
+    def get_queryset(self):
+        base_qs = super().get_queryset()
+        return base_qs.filter(usuario=self.request.user)
 
 class Logueo(LoginView):
     template_name = 'base/login.html'
@@ -67,7 +79,7 @@ def Logout(request):
     return redirect('login')
 
 class PaginaRegistro(FormView):
-    template_name = 'base/registro.html'
+    template_name = 'base/Registro.html'
     form_class = UserCreationForm
     redirect_authenticated_user = True
     success_url = reverse_lazy('tarea')

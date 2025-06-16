@@ -58,7 +58,7 @@ ROOT_URLCONF = 'proyecto.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['C:\\Users\\soule\\PythonProject\\Unidad 12\\Intro Diango\\Entorno\\Sitios_Webs\\src\\proyecto\\base\\Templates'],
+        'DIRS': [BASE_DIR / 'base' / 'Templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -88,20 +88,7 @@ DATABASES = {
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
 
-#AUTH_PASSWORD_VALIDATORS = [
-    #{
-     #   'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
-    #},
-    #{
-     #   'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',
-    #},
-    #{
-   #     'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',
-  #  },
- #   {
-#        'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
-#    },
-#]
+AUTH_PASSWORD_VALIDATORS = []
 
 
 # Internationalization
